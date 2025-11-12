@@ -1,2 +1,9 @@
-# camrose-resort-casinocom-1762939105
-Site: camrose-resort-casino.com
+# camrose-resort-casino.com
+
+
+
+Built on: 2025-11-12 09:18:27
+
+Available languages:
+- en-CA
+- langs

@@ -1,0 +1,19 @@
+{
+  "name": "Camrose Resort Casino",
+  "short_name": "Camrose Resort Casino",
+  "theme_color": "",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1762871665-favicon-wwwcamroseresortcasinocom.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

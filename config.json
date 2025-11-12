@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#1D2228",
+            "welcome-bonus-bg": "#fafafa",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#ffffff",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#1D2228",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#B7851D",
+            "yellow": "#5B3236",
+            "yellow-button": "#B7851D",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#E1E2E2",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#5B3236",
+            "faq-label": "#E1E2E2",
+            "bg-footer": "#1D2228",
+            "copyright": "#e7e7d5",
+            "starColor": "#5B3236",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Camrose Resort Casino",
+            "title": "Camrose Resort Casino | Casino, Hotel, Dining & Live Entertainment in Camrose, Alberta",
+            "description": "Discover Camrose Resort Casino \u2013 a premier destination for slots, poker, blackjack, luxury hotel stays, dining, and live entertainment in Camrose, Alberta. Perfect for fun and relaxation!\n",
+            "canonical": "camrose-resort-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/490",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "camrose-resort-casino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/482",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/483"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/486",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Camrose Resort Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Camrose Resort Casino \u2013 Casino, Hotel & Entertainment in Alberta",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/487",
+            "imageSizeModifier": 10,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/488",
+            "mobileImageSizeModifier": -3,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Over 200 modern slot machines",
+                "Table games: blackjack, poker, roulette",
+                "Regular tournaments and prize draws",
+                "Friendly and trained gaming staff",
+                " Comfortable hotel with pool and spa",
+                "Restaurants and bars with diverse menus",
+                "Live entertainment and music events"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Camrose Resort Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/491",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Camrose Resort Casino App",
+            "mobileGooglePlayImageTitle": "Camrose Resort Casino App",
+            "mobileIosImageTitle": "Camrose Resort Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Camrose Resort Casino",
+                "description1": "",
+                "items": [
+                    "Progressive slots with jackpots up to $100,000",
+                    "Weekly bonuses and prize draws",
+                    "12 tables: poker, blackjack, roulette"
+                ],
+                "description2": "Camrose Resort Casino is a modern entertainment destination combining gaming, comfortable accommodation, and diverse amenities. Guests can enjoy a vibrant casino atmosphere with slot machines and table games, while relaxing in cozy hotel rooms. The resort features restaurants, bars, and live entertainment, offering a complete leisure experience. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/492",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Spacious facilities and friendly staff ensure a welcoming and enjoyable stay. It\u2019s an ideal spot for both gaming enthusiasts and those seeking relaxation and fun."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Welcome to the World of Camrose Resort Casino",
+                "description": "<p> Camrose Resort Casino is more than just a casino \u2014 it\u2019s a full-scale resort complex that blends excitement, comfort, and entertainment. Located in the scenic city of Camrose, Alberta, it offers guests a unique mix of gaming thrills and cozy hospitality. Whether you're chasing luck or simply looking to unwind, this resort has something for everyone.\n<\/p>\n<br>\n<p> The gaming floor features over 200 modern slot machines and a variety of popular table games, including blackjack, Texas Hold\u2019em, and roulette. Regular poker tournaments and themed gaming nights with prize draws add an extra layer of excitement. Skilled and friendly dealers ensure a welcoming atmosphere reminiscent of Las Vegas, but with a Canadian touch.\n<\/p>\n<br>\n<p> The on-site hotel offers spacious rooms and suites, some with in-room jacuzzis. Guests can relax in the indoor pool with a waterslide, work out in the fitness center, or enjoy treatments at the spa. Families are welcome, and business travelers will appreciate the conference facilities and business services available.\n<\/p>\n<br>\n<p> Food lovers will enjoy the resort\u2019s dining options. Joker\u2019s Den Pub offers a casual vibe with live music and sports broadcasts, while Eats Restaurant serves a diverse menu of Canadian and international cuisine. Evenings often feature live concerts, stand-up comedy, and themed parties, making every night memorable.\n<\/p>\n<br>\n<p> Camrose Resort Casino also features generous bonus programs and a loyalty system. Members earn points through play, which can be redeemed for free meals, hotel stays, or access to exclusive events. Frequent guests receive special perks, including complimentary nights and invitations to VIP tournaments.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCamrose Resort Casino: Rules & Dress Code\n<\/h3>\n\n<p> Camrose Resort Casino offers a welcoming and secure environment for entertainment and relaxation. To ensure a pleasant experience for all guests, please follow these guidelines.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">General Entry Requirements<\/h4>\n        <ul>\n            <li>\u2022 Entry is allowed only for guests 18 years and older. A valid photo ID is required.\n<\/li>\n            <li>\u2022 Registration is mandatory before entering the gaming area: show your ID, fill out a digital form, and receive a player card.\n<\/li>\n            <li>\u2022 The casino reserves the right to deny entry to individuals under the influence of alcohol or drugs.\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n        <ul>\n            <li>\u2022 The dress code is casual but neat.\n<\/li>\n            <li>\u2022 Not allowed:\n\nClothing with offensive language or images; \nSwimwear, pajamas, or underwear as outerwear; \nHeadwear (except for religious reasons).<\/li>\n            <li>\u2022 Smart casual or business casual attire is recommended\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Additional Rules<\/h4>\n\n\n        <ul>\n            <li>\u2022 Photography is prohibited in gaming areas\n<\/li>\n            <li>\u2022 Smoking is allowed only in designated areas\n<\/li>\n            <li>\u2022 Pets are not allowed in the casino (except service animals)\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCamrose Resort Casino Loyalty Program\n<\/h3>\n<p> Camrose Resort Casino offers the Winner\u2019s Edge loyalty program, designed to reward players for their continued patronage. Membership is free and available to all guests over the age of 18. Signing up is quick and easy \u2014 just bring valid ID to the casino.\n<\/p>\n<p> Members earn points every time they play slots or table games. These points can be redeemed for free play, dining discounts, hotel perks, and exclusive promotions.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Key Benefits<\/h4>\n\n\n        <ul>\n            <li>\u2022 Free membership with instant enrollment\n<\/li>\n            <li>\u2022 Earn points on every game played\n<\/li>\n            <li>\u2022 Redeem points for rewards and discounts\n<\/li>\n            <li>\u2022 Exclusive promotions and prize draws\n<\/li>\n\t    <li>\u2022 Dining and hotel discounts\n<\/li>\n            <li>\u2022 Priority service and VIP events\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTiers & Bonuses\n<\/h3>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Red Card (Base Tier)<\/h4>\n            <ul>\n            <li>\u2022 0\u2013999 points<\/li>\n            <li>\u2022 5% dining discount<\/li>\n            <li>\u2022 Monthly prize draw entries<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Silver Card<\/h4>\n             <ul>\n            <li>\u2022 1,000\u20134,999 points<\/li>\n            <li>\u2022 10% dining discount<\/li>\n            <li>\u2022 Free drinks at slots<\/li>\n    <li>\u2022 Invitations to special events<\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Gold Card<\/h4>\n        <ul>\n            <li>\u2022 5,000+ points<\/li>\n            <li>\u2022 15% off dining and hotel stays<\/li>\n            <li>\u2022 Priority service<\/li>\n            <li>\u2022 Monthly bonuses up to $100<\/li>\n            <li>\u2022 Personal host<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n<\/div>\n<br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Camrose Resort Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses, Wins & Entertainment at Camrose Resort Casino\n<\/h3>\n\n<p> Camrose Resort Casino offers more than just gaming \u2014 it\u2019s a full entertainment destination with exciting bonuses, seasonal events, and special offers that enhance every visit.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Key Offers and Promotions<\/h4>\n\n\n        <ul>\n            <li>\u2022 Frequent prize draws and jackpots \u2014 win thousands in cash.\n<\/li>\n            <li>\u2022 Seasonal events \u2014 themed parties, concerts, and festive dinners.\n<\/li>\n            <li>\u2022 Hotel + Casino packages \u2014 stay longer, save more.\n<\/li>\n            <li>\u2022 Special dinners and live shows \u2014 like Christmas parties with music.\n<\/li>\n\t    <li>\u2022 Gaming tournaments \u2014 poker, blackjack, roulette competitions.\n<\/li>\n            <li>\u2022 Gift certificates and discounts \u2014 for rooms, dining, and entertainment.\n<\/li>\n\t    <li>\u2022 Newsletter exclusives \u2014 early access to deals and tickets.\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Details on Bonuses and Events<\/h4>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Progressive Jackpots<\/h4>\n            <ul>\n            <li>\u2022 Slot machines with in-house and province-wide jackpots.\n<\/li>\n            <li>\u2022 Example wins: $10,000+ on popular slots.\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Table Game Tournaments<\/h4>\n           <ul>\n            <li>\u2022 Regular events in Ultimate Texas Hold\u2019em, blackjack, roulette.\n<\/li>\n            <li>\u2022 Prize pools: $500\u2013$5,000.\n<\/li>\n            <li>\u2022 Often held on weekends and holidays.\n\n<\/li>\n        <\/ul>   <br>\n\n      <h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal Events<\/h4>\n           <ul>\n            <li>\u2022 Small Business Christmas Party<\/li>\n\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">\u201cUltimate Getaway\u201d Package<\/h4>\n        <ul>\n            <li>\u2022 Book 2 nights, get the 3rd night free.\n<\/li>\n            <li>\u2022 Rate: $189\/night + tax.\n<\/li>\n            <li>\u2022 Includes free parking and Wi-Fi.\n\n<\/li>\n        <\/ul>\n        <br>\n\n      <h4 style = \"font-weight: bold; font-size: 24px;\">Themed Dinners & Shows<\/h4>\n           <ul>\n            <li>\u2022 Example: Surf & Turf dinner \u2014 $38.\n<\/li>\n            <li>\u2022 Live music in the Regal Ballroom: rock, pop, country.\n\n<\/li>\n        <\/ul>\n <br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Newsletter Perks<\/h4>\n          <ul>\n            <li>\u2022 Get exclusive offers, early access to events, and more.\n<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Camrose Resort Casino\n<\/h3>\n\n<p> Camrose Resort Casino offers a well-rounded gaming experience with a mix of classic table games, modern slots, and poker tournaments. Whether you're a casual player or a seasoned gambler, there's something for everyone on the gaming floor.\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Slot Machines<\/h4>\n        <ul>\n            <li>\u2022 Over 200 machines from Aristocrat and IGT.\n<\/li>\n            <li>\u2022 Themes: adventure, fantasy, fruits, classics.\n<\/li>\n            <li>\u2022 Bets: $0.01 to $5.\n<\/li>\n            <li>\u2022 Examples: Pompeii, More Hearts, Way to Go.\n<\/li>\n            <li>\u2022 Progressive jackpots: up to $10,000+\n\n<\/li>\n        <\/ul>\n        <br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Blackjack<\/h4>\n        <ul>\n            <li>\u2022 Available daily.\n<\/li>\n            <li>\u2022 Minimum bet: $1\u2013$5.\n<\/li>\n            <li>\u2022 Great for strategic and casual players.\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Roulette<\/h4>\n        <ul>\n            <li>\u2022 European and American versions.\n<\/li>\n            <li>\u2022 Bet on numbers, colors, or ranges.\n<\/li>\n            <li>\u2022 Classic casino excitement.\n\n<\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Ultimate Texas Hold\u2019em<\/h4>\n        <ul>\n            <li>\u2022 Poker variant played against the dealer.\n<\/li>\n            <li>\u2022 Popular in weekend tournaments.\n<\/li>\n            <li>\u2022 Combines skill and luck.\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Poker Room<\/h4>\n        <ul>\n            <li>\u2022 Cash games and weekly tournaments.\n<\/li>\n            <li>\u2022 Prize pools: $500\u2013$5,000.\n<\/li>\n            <li>\u2022 Friendly, competitive atmosphere.\n\n<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Camrose Resort Casino\n<\/h3>\n\n<p> Camrose Resort Casino offers a wide range of betting options to suit every player \u2014 from casual slot fans to high-stakes table game enthusiasts. Whether you're playing for fun or aiming for big wins, you'll find a game that fits your style.<\/p>\n\n<br>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#B7851D; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.01 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CAD <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Video Lottery Terminals<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.05 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 2 CAD <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 500 CAD <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 200 CAD <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold\u2019em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">250 CAD<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Tournaments)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">20 CAD (buy-in)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5000 CAD (prize pool)\n\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment & Events at Camrose Resort Casino\n<\/h3>\n\n<p> Camrose Resort Casino is more than just a gaming destination \u2014 it\u2019s a vibrant hub for entertainment and social gatherings. The heart of the action is the Regal Ballroom, a spacious and elegant venue that hosts a wide range of events, from live concerts and themed parties to corporate functions and weddings. With a capacity of up to 300 guests, it\u2019s the perfect setting for unforgettable nights out.\n<\/p>\n<br>\n<p> One of the most anticipated events is the Annual Small Business Christmas Party, held every December. This festive celebration features a gourmet buffet, live entertainment (such as the high-energy 80s tribute band Rubix Cubed), and a beautifully decorated ballroom. Themed musical nights are also a regular feature, offering everything from country and rock to pop and retro hits. Guests can enjoy dinner and a show, followed by drinks and dancing.\n<\/p>\n<br>\n<p> The Joker\u2019s Den Pub, located within the casino, is a hotspot for nightly entertainment. It features live bands, DJ sets, karaoke nights, and sports broadcasts. On weekends, it transforms into a lively nightclub, staying open until 2:00 AM. Whether you're winding down after a game or looking for a fun night out, the pub offers a relaxed yet energetic atmosphere.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment & Events at a Glance<\/h4>\n\n\n        <ul>\n            <li>\u2022 Live Concerts at Regal Ballroom:\nRock, pop, country, retro nights, and themed shows.<\/li>\n            <li>\u2022 Small Business Christmas Party:\nDinner, 80s music, festive d\u00e9cor. <\/li>\n            <li>\u2022 Joker\u2019s Den Pub\nLive music, DJs, karaoke, pool, sports. Open till 2:00 AM on weekends.<\/li>\n            <li>\u2022 Themed Dinners & Shows:\nExample: Surf & Turf dinner with live music .<\/li>\n\t    <li>\u2022 Private Events & Banquets:\nWeddings, corporate parties, birthdays with full service.<\/li>\n\t    <li>\u2022 Special Event Nights:\nComedy shows, trivia nights, and seasonal parties.<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDining & Relaxation at Camrose Resort Casino\n<\/h3>\n\n<p> Camrose Resort Casino is more than just a gaming destination \u2014 it\u2019s a full-service resort offering excellent dining, cozy accommodations, and a variety of leisure options. Whether you're visiting for a weekend getaway, a business trip, or a family vacation, the resort provides everything you need for a comfortable and entertaining stay.\n<\/p>\n<br>\n<p> Guests can enjoy two on-site restaurants, a lively pub, a spa and wellness center, and a hotel with spacious rooms and suites. The resort also features banquet halls for weddings and events, and is conveniently located near downtown Camrose, offering access to local attractions, shopping, and theaters.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dining & Leisure Venues at Camrose Resort Casino<\/h4>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Rosie\u2019s Family Restaurant<\/h4>\n     <ul>\n            <li>\u2022 Family-friendly dining with a cozy vibe.\n<\/li>\n            <li>\u2022 Open daily from 5:00 PM to 9:00 PM.\n<\/li>\n            <li>\u2022 Menu: steaks, pasta, seafood, kids\u2019 meals.\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Joker\u2019s Den Pub<\/h4>\n         <ul>\n            <li>\u2022 Pub with live bands, DJs, and sports screens.<\/li>\n            <li>\u2022 Hours:\n\nSun\u2013Thu: 11 AM\u20139 PM (midnight); \nFri\u2013Sat: 11 AM\u201311 PM (2 AM)<\/li>\n            <li>\u2022 Pool tables, snacks, cocktails, and beer.\n\n<\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Camrose Resort Casino Hotel<\/h4>\n        <ul>\n            <li>\u2022 Room types: standard, suites, family, jacuzzi rooms.\n<\/li>\n            <li>\u2022 Amenities: free Wi-Fi, parking, gym, business center.\n<\/li>\n            <li>\u2022 Pool and waterslide temporarily closed for repairs.\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Spa & Wellness Center<\/h4>\n      <ul>\n            <li>\u2022 Hot tub, massages, facial and body treatments.\n<\/li>\n            <li>\u2022 Ideal for post-casino relaxation.\n<\/li>\n        <\/ul>\n<br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Regal Ballroom<\/h4>\n      <ul>\n            <li>\u2022 Elegant venue for weddings, banquets, and shows.\n\n<\/li>\n            <li>\u2022Hosts concerts, parties, and seasonal dinners.\n<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What payment methods are accepted at the casino?",
+                    "answer": "We accept cash, debit and credit cards (Visa, MasterCard), and gift certificates.\n\n\n"
+                },
+                {
+                    "title": "Can I use foreign currency?",
+                    "answer": "No, all transactions are conducted in Canadian dollars (CAD).\n\n\n"
+                },
+                {
+                    "title": "Do I need to register to enter the casino?",
+                    "answer": "No registration is required, but valid photo ID may be requested at the entrance.\n\n\n"
+                },
+                {
+                    "title": "What languages does the staff speak?",
+                    "answer": "English is the primary language. Some staff also speak French.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/489",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Camrose Resort Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
